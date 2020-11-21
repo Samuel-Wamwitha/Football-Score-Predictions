@@ -1,4 +1,4 @@
-# Core-IP-Week-6
+# Football Score Predictions
 # Python Notebook
 #### Football Score Predictions, November, 2020.
 #### By **Samuel Wamwitha**
